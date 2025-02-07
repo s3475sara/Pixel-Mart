@@ -122,72 +122,73 @@
         margin-left: 200px;
         margin-top: 50px;
     }
-    @media only screen and
-    (max-width: 600px){
-        body{
-            background-size:0% 0%;
-        }        .line{
     
-            margin-top: 80px;
-            margin-left: 20px;
-           width: 350px;
-        }
-        
-        .div{
-            margin-top: 80px;
-            margin-left: 20px;
-        
-        }
-        .birth{
-            flex-direction: column;
-            margin-right: 20px;
-           line-height: 0.7; 
-        }
-        .list{
-            margin-top: 40px;
-            margin-left: 20px;
-        }
-        .phone{
-            flex-direction: column;
-        }
-        .height{
-            line-height: 0.7;
-        }
-        .display{
-            margin-top: 80px;
-            margin-left: 20px; 
-            margin-right: 20px;
-            flex-direction: column;
-            
-        }
-        .phonee{
-            flex-direction: column;
-            margin-left: 20px;
-        }
-        .phn{
-           flex-direction: column;
-            margin-left: 20px;
-        }
-        .para2{
-            margin-top: 80px;
-            margin-bottom: 80px;
-        }
-          .justyfy{
-            margin-right: 20px;
-            margin-left: 20px;
-            margin-top: 80px;
-            text-align: justify;
-          }
-        .name{
-            margin-left: 150px;
-        }
-        .title{
-            margin-left: 180px;
-        }
-        .img{
-                margin-left: 150px;
-            }
-            .cool{
-                margin-left: 30px;
-            }
+@media only screen and
+(max-width: 600px){
+    body{
+        background-size:0% 0%;
+    }        .line{
+
+        margin-top: 80px;
+        margin-left: 20px;
+       width: 350px;
     }
+    
+    .div{
+        margin-top: 80px;
+        margin-left: 20px;
+    
+    }
+    .birth{
+        flex-direction: column;
+        margin-right: 20px;
+       line-height: 0.7; 
+    }
+    .list{
+        margin-top: 40px;
+        margin-left: 20px;
+    }
+    .phone{
+        flex-direction: column;
+    }
+    .height{
+        line-height: 0.7;
+    }
+    .display{
+        margin-top: 80px;
+        margin-left: 20px; 
+        margin-right: 20px;
+        flex-direction: column;
+        
+    }
+    .phonee{
+        flex-direction: column;
+        margin-left: 20px;
+    }
+    .phn{
+       flex-direction: column;
+        margin-left: 20px;
+    }
+    .para2{
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+      .justyfy{
+        margin-right: 20px;
+        margin-left: 20px;
+        margin-top: 80px;
+        text-align: justify;
+      }
+    .name{
+        margin-left: 80px;
+    }
+    .title{
+        margin-left: 110px;
+    }
+    .img{
+            margin-left: 80px;
+        }
+        .cool{
+            margin-left: 30px;
+        }
+}
