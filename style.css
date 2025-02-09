@@ -4,7 +4,7 @@
 
 *{
     font-family: "Poppins", serif;
-    
+   
 }
 .line{
     
@@ -12,7 +12,9 @@
     margin-left: 200px;
    width: 350px;
 }
-
+.birth>div>p{
+    margin-top: 0px;
+}
 
 .div{
     line-height:0;
@@ -44,6 +46,7 @@
     margin-top: 40px;
     margin-left: 200px;
     color: #424247;
+    margin-bottom: 80px;
 }
 .phone{
     display: flex;
@@ -99,6 +102,7 @@
     margin-right: 200px;
     margin-left: 200px;
     color: #424247;
+
   }
 .name{
     font-family: "Mulish", serif;
@@ -190,5 +194,8 @@
         }
         .cool{
             margin-left: 30px;
+        }
+        .juba{
+            margin-left: 5000px;
         }
 }
